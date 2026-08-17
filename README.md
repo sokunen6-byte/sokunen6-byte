@@ -13,7 +13,7 @@ Computer Science student focused on **Computer Software**.
 * 🌱 improving **Java, PHP, Python & C#**
 * 🔧 Using **Git & GitHub** for projects
 * 🚀 Building projects to gain practical experience
-* 🔍 Looking for an internship.
+* 🔍 Looking for an ***internship***.
 
 ### 🛠️ Tech Stack
 
