@@ -8,25 +8,26 @@
 
 Computer Science student focused on **Computer Software**.
 
-* 🎓 Studying in Y3S1.
-* 💡 Interested in Software Engineering
-* 🌱 Currently improving **Java, Python & C#**
+* 🎓 Currently, Studying in Y3S1.
+* 💡 Interested in Software Development 
+* 🌱 improving **Java, PHP, Python & C#**
 * 🔧 Using **Git & GitHub** for projects
 * 🚀 Building projects to gain practical experience
+* 🔍 Looking for an internship.
 
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,html,css,js,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,php,python,java,html,css,js,github,vscode,visualstudio,mysql,postgresql,sqlserver" />
 </p>
 
-**📚 What I have Studied**
+**📚 Studied**
 
 `Data Structure and Algorithm ` `C#(.Net) ` `Database System ` `SQL Server` `Computer Networking `
 
-### 📚 Currently Learning
+### 📚 Studying
 
-`Python` • `OOP` • `Java` • `Python` • `Web Application ` • `Windows Server` • `Front-End Web`
+• `OOP` • `Java` • `Python` • `Web Application ` • `Windows Server` • `Front-End Web`
 
 ### 🎯 Goal
 
