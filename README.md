@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sokun En
+# 👋 Hi, I'm CS En
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%8E%93;Software+Developer+in+Progress+%F0%9F%92%BB;Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" />
