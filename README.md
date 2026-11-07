@@ -1,8 +1,18 @@
-# 👋 Hi, I'm CS En
+## PROFESSIONAL SUMMARY
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%8E%93;Software+Developer+in+Progress+%F0%9F%92%BB;Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" />
+  <img src="https://www.gitskins.com/api/section/hero?username=sokunen6-byte&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251960735%3Fu%3Dd18b95aece93a7a9f9faab401e29a1e015d149d0%26v%3D4" alt="sokunen6-byte hero visual" />
 </p>
+
+
+
+## I'm 20 years old, Studying at Angkor University.
+
+Computer Science Student
+
+- 📍 Based in **Cambodia, Seim Reap.**
+- 🌐 [Website](https://t.me/En126u)
+- 👥 **7** followers · **7** following
 
 ### 💻 About Me
 
@@ -16,20 +26,20 @@ Computer Science student focused on **Computer Software**.
 * 🔍 Looking for an ***internship***.
 
 ### 🛠️ Tech Stack
-
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,php,python,java,html,css,js,github,vscode,visualstudio,mysql,postgresql,sqlserver" />
 </p>
 
-**📚 Studied**
 
-`Data Structure and Algorithm ` `C#(.Net) ` `Database System ` `SQL Server` `Computer Networking `
+<details open>
+<summary><b>📌My Projects </b></summary>
+<br/>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=sokunen6-byte&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251960735%3Fu%3Dd18b95aece93a7a9f9faab401e29a1e015d149d0%26v%3D4" alt="sokunen6-byte projects visual" />
+</p>
+</details>
 
-### 📚 Studying
-
-• `OOP` • `Java` • `Python` • `Web Application ` • `Windows Server` • `Front-End Web`
-
-### 🎯 Goal
-
-> **Build real-world software and continuously become a better developer.**
-
+## My Activity
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=sokunen6-byte&theme=github-dark" alt="sokunen6-byte contribution activity" />
+</p>
