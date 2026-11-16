@@ -11,7 +11,7 @@
 Computer Science Student
 
 - 📍 Based in **Cambodia, Seim Reap.**
-- 🌐 [Website](https://t.me/En126u)
+- 🌐 [LinkedIn ](https://www.linkedin.com/in/sokun-en-226113447/) & [Telegram](https://t.me/En126u)
 - 👥 **7** followers · **7** following
 
 ### 💻 About Me
@@ -39,7 +39,3 @@ Computer Science student focused on **Computer Software**.
 </p>
 </details>
 
-## My Activity
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=sokunen6-byte&theme=github-dark" alt="sokunen6-byte contribution activity" />
-</p>
